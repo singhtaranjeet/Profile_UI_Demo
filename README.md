@@ -1,6 +1,7 @@
 # flutter_profile_ui
 
-A new Flutter application.
+A demo profile page
+<img src="./Flutter Demo.png" width="100" height="100">
 
 ## Getting Started
 
