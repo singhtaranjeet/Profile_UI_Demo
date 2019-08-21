@@ -1,7 +1,7 @@
 # flutter_profile_ui
 
 A demo profile page<br>
-<img src="./Flutter Demo.png" width="300" height="400">
+<img src="./Flutter Demo.png" width="360" height="540">
 
 ## Getting Started
 
